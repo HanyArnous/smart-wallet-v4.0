@@ -70,3 +70,8 @@ smart-wallet-v4.0
 
 Bash
 git clone https://github.com/HanyArnous/smart-wallet-v4.0.git
+
+
+## Demo Apk
+
+[Download Demo APK](https://www.mediafire.com/file/i3soe3oxsyq3ixr/app-release-unsigned.apk/file
