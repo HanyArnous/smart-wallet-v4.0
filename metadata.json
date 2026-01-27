@@ -1,0 +1,7 @@
+{
+  "name": "Smart Wallet v4.0",
+  "description": "A comprehensive personal financial system combining smart automation, wealth tracking (Cash, Gold, Silver), and hierarchical 'Life Pillars' analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
